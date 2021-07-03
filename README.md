@@ -17,5 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My magical tools for build the application with miracle:
+My magical tools for build applications and systems with miracle:
 
+- Linux
+- Docker
+- Golang
+- JavaScript (Angular and ReactJS / Native)
+- PHP
+- Ruby (Ruby on Rails)
+- NVIM
