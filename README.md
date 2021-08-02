@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My magical tools for build applications and systems with miracle:
+My magical tools for build applications and systems:
 
 - Linux
 - Docker
