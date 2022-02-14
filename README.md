@@ -22,7 +22,7 @@ My magical tools for build applications and systems:
 - Linux
 - Docker
 - Golang
-- JavaScript (Angular and ReactJS / Native)
+- JavaScript
 - PHP
 - Ruby (Ruby on Rails)
 - NVIM
