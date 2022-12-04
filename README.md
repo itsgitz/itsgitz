@@ -25,6 +25,6 @@ My magical tools for build applications and systems:
 - Docker
 - Golang
 - JavaScript
-- PHP
+- PHP (Laravel)
 - Ruby (Ruby on Rails)
 - NVIM
