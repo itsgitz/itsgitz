@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=itsgitz&show_icons=true&theme=radical"> -->
 
-My magical tools for build applications and systems:
+My magical tools:
 
 - Linux
 - Docker
