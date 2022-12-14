@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Anggit M Ginanjar, my friends always call me **gitz**!
+I'm Anggit M Ginanjar, my friends call me **gitz**!
 
 <!--
 **itsgitz/itsgitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
