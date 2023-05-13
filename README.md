@@ -23,6 +23,7 @@ My magical tools:
 
 - Linux
 - Docker
+- Amazon Web Services
 - Golang
 - JavaScript / TypeScript
 - Python
