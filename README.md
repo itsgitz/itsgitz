@@ -24,7 +24,8 @@ My magical tools:
 - Linux
 - Docker
 - Golang
-- JavaScript
+- JavaScript / TypeScript
+- Python
 - PHP (Laravel)
 - Ruby (Ruby on Rails)
 - NVIM
