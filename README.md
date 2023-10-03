@@ -28,5 +28,4 @@ My magical tools:
 - JavaScript / TypeScript
 - Python
 - PHP (Laravel)
-- Ruby (Ruby on Rails)
 - NVIM
