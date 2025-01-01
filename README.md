@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - Docker
 - Amazon Web Services
 - Golang
-- JavaScript / TypeScript
+- JavaScript / TypeScript / Node.JS
 - Python
 - PHP (Laravel)
 - NVIM
