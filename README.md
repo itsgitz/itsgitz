@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=itsgitz&show_icons=true&theme=radical"> -->
 
-My magical tools:
+## 🔧 My magical tools:
 
 - Linux
 - Docker
@@ -29,3 +29,14 @@ My magical tools:
 - Python
 - PHP (Laravel)
 - NVIM
+
+## 📈 GitHub Stats
+![itsgitz's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsgitz&show_icons=true&theme=radical)
+
+## 💼 Open to Work
+I'm always open to exciting opportunities and collaborations. Feel free to reach out if you have something in mind!
+
+## 🤝 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/itsgitz/)
+- [Twitter](https://twitter.com/itsgitz)
+- [Email](mailto:anggit.ginanjar.dev@gmail.com)
