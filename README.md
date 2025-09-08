@@ -38,5 +38,4 @@ I'm always open to exciting opportunities and collaborations. Feel free to reach
 
 ## 🤝 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/itsgitz/)
-- [Twitter](https://twitter.com/itsgitz)
 - [Email](mailto:anggit.ginanjar.dev@gmail.com)
