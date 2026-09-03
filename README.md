@@ -30,11 +30,6 @@ Here are some ideas to get you started:
 - PHP (Laravel)
 - NVIM
 
-## 📈 GitHub Stats
-![itsgitz's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsgitz&show_icons=true&theme=radical)
-
-## 💼 Open to Work
-I'm always open to exciting opportunities and collaborations. Feel free to reach out if you have something in mind!
 
 ## 🤝 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/itsgitz/)
